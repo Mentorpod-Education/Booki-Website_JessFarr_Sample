@@ -188,15 +188,14 @@ html {
   }
 
   .filter-return-icon {
-  display: flex;
-  width: 22px;
-  height: 22px;
-  color: #0065FC;
-  background-color: #fff;
-  align-items: center;
-  justify-items: center;
-  border: .5px, solid, #F2F2F2;
-  border-radius: 15px 15px 15px 15px;
+    display: inline-flex;
+    height: 30px;
+    width: 30px;
+    border: solid #d9d9d9 2px;
+    border-radius: 30px;
+    color: #0065fc;
+    align-items: center;
+	justify-content: center;
   }
 
   .filter-return p {
@@ -212,7 +211,7 @@ html {
   */
   
   .filter-return {
-    margin-top: 15px;
+     margin-top: 15px;
 }
 
 .filter-return {
